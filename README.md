@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Nika Khizambareli</h1>
+<h3 align="center">Full stack drupal developer from Georgia</h3>
 
-<!--
-**NikaKhiz/NikaKhiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h4> Currently I'm focused on enhancing skills at : </h4>
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic-square&logo=typescript&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-316192?style=plastic-square&logo=drupal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=plastic-square&logo=Docker&logoColor=blue)
+![Composer](https://img.shields.io/badge/Composer-white.svg?&style=plastic-square&logo=Composer&logoColor=red)
+![Twig](https://img.shields.io/badge/Twig-green?style=plastic-square&logo=twig&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic-square&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TailwindCss](https://img.shields.io/badge/TailwindCss-171C2D?style=plastic-square&logo=TailwindCss&logoColor=16BFCA)
+![PHP](https://img.shields.io/badge/PHP-474A8A?style=plastic-square&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=plastic-square&logo=mysql&logoColor=orange)
+![PHPMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-005C84?style=plastic-square&logo=PHPMyAdmin&logoColor=orange)
+![Git](https://img.shields.io/badge/Git-E44C30?style=plastic-square&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=plastic-square&logo=github&logoColor=white)
+![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic-square&logo=visual%20studio%20code&logoColor=white)
+![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
+
+</div>
+<div align="center">
+
+
+</div>
