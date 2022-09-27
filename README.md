@@ -25,7 +25,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
 
 </div>
+
 <div align="center">
+GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikaKhiz&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgitchanturidze&show_icons=true&theme=radical&layout=compact" alt="Stats" />
 
 
 </div>
