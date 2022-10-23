@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=plastic-square&logo=mysql&logoColor=orange)
 ![PHPMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-005C84?style=plastic-square&logo=PHPMyAdmin&logoColor=orange)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic-square&logo=git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=plastic-square&logo=gitlab&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic-square&logo=github&logoColor=white)
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic-square&logo=visual%20studio%20code&logoColor=white)
 ![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
