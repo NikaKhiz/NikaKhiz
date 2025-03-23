@@ -1,5 +1,5 @@
 <div align="center"> <h1>Hi there👋, I'm Nika Khizambareli</h1>
-  <h3> Junior FullStack developer </h3>
+  <h3> Python / Django Developer </h3>
 </div>
 
 
